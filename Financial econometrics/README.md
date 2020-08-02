@@ -6,7 +6,7 @@ This folder inlcudes code to:
 
 In attempt to keep the code tidy, the folder has separate scripts to: 
 
-  1. Retrieve the data
-  2. Visualise the data 
-  3. Estimating and forecasting the volatility of stock return
+  1. [Retrieve the data](GARH/Set-up.R)
+  2. [Visualise the data](GARH/Visualisation.R)
+  3. [Estimating and forecasting the volatility of stock return]((GARH/Estimation.R))
 

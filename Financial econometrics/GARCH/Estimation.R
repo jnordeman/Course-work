@@ -1,3 +1,5 @@
+source("https://raw.githubusercontent.com/jnordeman/Course-work/master/Financial%20econometrics/GARCH/Set-up.R")
+
 model_data <-as.xts(KVIK[,.(date,return)])
 
 ## Fit GARCH

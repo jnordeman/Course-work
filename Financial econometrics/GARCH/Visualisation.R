@@ -1,4 +1,4 @@
-
+source("https://raw.githubusercontent.com/jnordeman/Course-work/master/Financial%20econometrics/GARCH/Set-up.R")
 
 ## IDENTIFICATION
 ## -----------------------------------------------
